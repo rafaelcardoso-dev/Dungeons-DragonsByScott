@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dungeons&DragonsByScott", "Dungeons&DragonsByScott\Dungeons&DragonsByScott.csproj", "{2CCB2331-9A49-4EE1-85D1-9AFCD483EC72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Engine", "Engine\Engine.csproj", "{4AB57E4B-EA60-416B-B80F-338E76276281}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CCB2331-9A49-4EE1-85D1-9AFCD483EC72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CCB2331-9A49-4EE1-85D1-9AFCD483EC72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CCB2331-9A49-4EE1-85D1-9AFCD483EC72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CCB2331-9A49-4EE1-85D1-9AFCD483EC72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AB57E4B-EA60-416B-B80F-338E76276281}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AB57E4B-EA60-416B-B80F-338E76276281}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AB57E4B-EA60-416B-B80F-338E76276281}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AB57E4B-EA60-416B-B80F-338E76276281}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6742EE1-50C8-4156-8001-90B2A2DDC01E}
+	EndGlobalSection
+EndGlobal
